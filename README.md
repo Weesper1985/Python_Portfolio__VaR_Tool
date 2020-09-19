@@ -36,6 +36,13 @@ Please note - this app requires the following packages / modules in order to fun
 - [Numpy and Scipy](https://docs.scipy.org/doc/)
 - [fix-yahoo-finance](https://pypi.org/project/fix-yahoo-finance/)
 
+You can install dependencies using pip with command below:
+
+```sh
+> cd [root_folder_of_this_project]
+> pip install -r requirements.txt
+```
+
 #### Screenshot Value-at-Risk data
 ![alt text](https://github.com/Weesper1985/Python_Portfolio__VaR_Tool/blob/master/Tab22.png)
 
